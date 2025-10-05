@@ -26,31 +26,30 @@
 
 ---
 
-### Languages
+### Languages & Frameworks
 
-<p align="left" style="display: flex; gap: 14px; align-items: center; flex-wrap: wrap;"> 
+<!-- Languages -->
+<p align="left" style="display:flex; gap:14px; align-items:center; flex-wrap:wrap; margin-bottom:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="60" style="margin-right: 14px;" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" style="margin-right: 14px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" style="margin-right: 14px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="60" style="margin-right: 14px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />
-<!-- React --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="48" /> 
-<!-- React Router --> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" height="48" /> 
-<!-- Tailwind CSS --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="48" /> 
-<!-- CSS3 (for glassmorphism + custom styles) --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="48" /> 
-<!-- Axios --> 
-<img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" alt="Axios" height="48" /> 
-<!-- TMDB (API badge substitute) --> 
-<img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e0b01f55b1d9f6d9d5f7c7a8a1f5a4b2b07a5f68a1f5f58c8c4e6d3f2c9b3a9.svg" alt="TMDB API" height="48" /> 
-<!-- GitHub Pages (deploy) --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Pages" height="48" /> </p>
-
+<!-- Frameworks & Libraries -->
+<p align="left" style="display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="48" />
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="48" />
+  <!-- Axios -->
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" height="48" />
+  <!-- The Movie Database (TMDB API) -->
+  <img src="https://cdn.simpleicons.org/themoviedatabase/01D277" alt="TMDB API" height="48" />
+  <!-- GitHub Pages (deployment) -->
+  <img src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" height="48" />
+</p>
 
 ---
 
