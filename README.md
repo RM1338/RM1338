@@ -27,7 +27,11 @@
 ---
 
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,npm,express,mongodb,mysql,git,github,matlab,opencv)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,npm,express,mongodb,mysql,git,github,matlab,opencv" />
+  </a>
+</p>
 
 ---
 
