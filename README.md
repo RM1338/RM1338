@@ -60,7 +60,7 @@
       </a>
       <h4>streamflix</h4>
       <p>Pixel‑perfect Netflix UI clone with TMDB data, dynamic carousels, banner/trailers, and search.</p>
-      <p>🔗 <a href="https://github.com/Ronel-08/streamflix">Repo</a> • <a href="">Demo</a></p>
+      <p>🔗 <a href="https://github.com/Rm1338/streamflix">Repo</a> • <a href="">Demo</a></p>
       <sub>Tags: React 18, TMDB API, React Router, Axios, CSS3</sub>
     </td>
   </tr>
@@ -113,21 +113,21 @@
 ---
 
 ### Stats
-![Ronel's Stats](https://github-readme-stats.vercel.app/api?username=Ronel-08&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ronel-08&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel-08&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Ronel's Stats](https://github-readme-stats.vercel.app/api?username=RM1338&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RM1338&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RM1338&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
 
 ### Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ronel-08&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=RM1338&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)
 
 ---
 
 ### Contact & links
-[![Portfolio](https://img.shields.io/badge/Portfolio-ronel--08.github.io-000?style=flat-square&logo=github&logoColor=white)](https://ronel-08.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rm1338.github.io-000?style=flat-square&logo=github&logoColor=white)](https://rm1338.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronelm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronelm/)
 [![Email](https://img.shields.io/badge/Email-rma80070%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rma80070@gmail.com)
 
