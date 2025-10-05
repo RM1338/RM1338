@@ -26,21 +26,9 @@
 
 ---
 
-### Skills and tools
-- React 18 with Hooks; Context API for theming and shared state flows.  
-- CSS3 with glassmorphism; Tailwind CSS experience from portfolio work on Windows.  
-- Node.js and npm for local development and scripts; Git/GitHub for version control.  
-- Frontend deployment with GitHub Pages; external API integrations (TMDB) for real movie data.
-
-<!-- Compact skill badges (sparing, professional) -->
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![TMDB API](https://img.shields.io/badge/TMDB_API-01D277?style=flat-square)
+### Languages
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="36" /> </p>
+<sub>Python · HTML5 · CSS3 · JavaScript · C</sub>
 
 ---
 
