@@ -1,33 +1,114 @@
-<h1 align="center">Hi 👋, I'm Ronel Abraham Mathew</h1>
-<h3 align="center">BTech CSE '28 | Aspiring Software Engineer | Tech Enthusiast</h3>
+# Ronel Abraham Mathew — BTech CSE ’29 | Aspiring SWE | Tech Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronel-08" alt="ronel-08" /></a> </p>
+Shipping learning‑driven full‑stack projects, from glassmorphic UIs to offline‑first education tools, with occasional 2 AM bug hunts and 9 AM classes anyway.
 
-<p align="left"> <a href="https://twitter.com/ronieeee13" target="blank"><img src="https://img.shields.io/twitter/follow/ronieeee13?logo=twitter&style=for-the-badge" alt="ronieeee13" /></a> </p>
+<!-- Top badges: metrics + quick actions -->
+![Profile views](https://komarev.com/ghpvc/?username=Ronel-08&style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/Ronel-08?style=flat-square&logo=github)
+![Stars](https://img.shields.io/github/stars/Ronel-08?affiliations=OWNER&style=flat-square&logo=github)
+[![Open to Internships](https://img.shields.io/badge/Open_to-Internships-2ea44f?style=flat-square)]()
+[![Open to Hackathons](https://img.shields.io/badge/Open_to-Hackathons-8a2be2?style=flat-square)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-ronel--08.github.io-000?style=flat-square&logo=github&logoColor=white)](https://ronel-08.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronelm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronelm/)
+[![Email](https://img.shields.io/badge/Email-rma80070%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rma80070@gmail.com)
 
-- 🔭 I’m currently working on **a Gamified Learning Platform for Rural Education**
+---
 
-- 🌱 I’m currently learning **C++ and DSA**
+### About
+- Currently building a gamified STEM learning platform for rural education (SIH 2025 shortlisted with Team HackHives).  
+- Learning C++ and DSA to deepen fundamentals while scaling architecture and performance.  
+- Fun fact: debug MongoDB connection errors at 2 AM, still make it to Digital System Design by morning.
 
-- 👨‍💻 All of my projects are available at [https://ronel-08.github.io/](https://ronel-08.github.io/)
+### Skills and tools
+- React 18 with Hooks; Context API for theming and shared state flows.  
+- CSS3 with glassmorphism; Tailwind CSS experience from portfolio work on Windows.  
+- Node.js and npm for local development and scripts; Git/GitHub for version control.  
+- Frontend deployment with GitHub Pages; external API integrations (TMDB) for real movie data.
 
-- 📫 How to reach me **rma80070@gmail.com**
+<!-- Compact skill badges (sparing, professional) -->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![TMDB API](https://img.shields.io/badge/TMDB_API-01D277?style=flat-square)
 
-- ⚡ Fun fact **I debug MongoDB connection errors at 2 AM and still make it to my Digital System Design class the next morning.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ronieeee13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronieeee13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ronelm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronelm" height="30" width="40" /></a>
-<a href="https://kaggle.com/ronelm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ronelm" height="30" width="40" /></a>
-<a href="https://instagram.com/ronieeeeee.ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronieeeeee.ee" height="30" width="40" /></a>
-</p>
+### Projects — production
+- todo‑app — “A modern, feature‑rich task manager with glassmorphic UI, dark/light themes, advanced filtering, and LocalStorage autosave.”  
+  [![Status: Live](https://img.shields.io/badge/Status-Live-2ea44f?style=flat-square)]()
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://Ronel-08.github.io/todo-app)
+  [![Repo](https://img.shields.io/badge/Code-Repository-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ronel-08/todo-app.git)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronel-08&show_icons=true&theme=radical&title_color=ff006e&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&locale=en&layout=compact" alt="ronel-08" /></p>
+### Projects — in development
+- rural‑edu‑gamification — “Gamified STEM learning with offline support, adaptive paths, multilingual UI, and teacher dashboards” (SIH 2025 shortlisted; Team Lead, HackHives).  
+  [![Status: In Development](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)]()
+  [![Demo](https://img.shields.io/badge/Demo-Coming_Soon-grey?style=flat-square)]()
+  [![Repo](https://img.shields.io/badge/Repo-Link_to_be_added-lightgrey?style=flat-square)]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronel-08&show_icons=true&theme=radical&title_color=ff006e&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&locale=en" alt="ronel-08" /></p>
+- cv‑craft — “ATS‑optimized resume builder with templates, live preview, autosave, and one‑click PDF export.”  
+  [![Status: MVP](https://img.shields.io/badge/Status-MVP-blue?style=flat-square)]()
+  [![Live Demo](https://img.shields.io/badge/Live-Resume_Builder_Pro-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://resume-builder-pro.vercel.app)
+  [![Repo](https://img.shields.io/badge/Code-Repository-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ronel-08/resume-builder)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronel-08&theme=dark" alt="ronel-08" /></p>
+- streamflix — “Pixel‑perfect Netflix UI clone with real‑time TMDB data, dynamic carousels, and authentic navigation.”  
+  [![Status: MVP](https://img.shields.io/badge/Status-MVP-blue?style=flat-square)]()
+  [![Live Demo](https://img.shields.io/badge/Live-Add_URL-ffb000?style=flat-square)]()
+  [![Repo](https://img.shields.io/badge/Code-Repository-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ronel-08/streamflix)
+
+---
+
+### Education
+- B.Tech in Computer Science and Engineering, Karunya Institute of Technology and Sciences — Class of 2029.  
+- Coursework: Programming for Problem Solving (C), Digital System Design, Web Technology, Linear Algebra and Calculus.
+
+### Certifications (ranked for SWE impact)
+![OCI AI Foundations](https://img.shields.io/badge/Oracle_AI_Foundations-2025-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Helsinki Intro to AI](https://img.shields.io/badge/University_of_Helsinki-Intro_to_AI-0072C6?style=flat-square)
+![IBM Web Dev](https://img.shields.io/badge/IBM-Web_Development-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![Kaggle Intro ML](https://img.shields.io/badge/Kaggle-Intro_to_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![OpenCV Bootcamp](https://img.shields.io/badge/OpenCV-Bootcamp-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Kaggle Python](https://img.shields.io/badge/Kaggle-Python-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![NVIDIA OpenUSD](https://img.shields.io/badge/NVIDIA-OpenUSD-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenCV Python](https://img.shields.io/badge/OpenCV-Python_for_Beginners-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Cisco HTML](https://img.shields.io/badge/Cisco-HTML_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco CSS](https://img.shields.io/badge/Cisco-CSS_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Kaggle Intro Prog](https://img.shields.io/badge/Kaggle-Intro_to_Programming-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![LinkedIn Intro AI](https://img.shields.io/badge/LinkedIn-Intro_to_AI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+### Now learning
+- Backend add‑ons (Express/MongoDB) to evolve front‑end MVPs into full‑stack apps aligned with SIH work.  
+- CI‑oriented deployments (GitHub workflows) to streamline GitHub Pages pushes.  
+- Advanced responsive and accessibility patterns for streaming UI and portfolio.
+
+---
+
+### Stats and widgets (all‑time)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronel-08&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel-08&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronel-08&theme=github-dark-blue)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ronel-08&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)
+
+---
+
+### Contact & links
+[![Portfolio](https://img.shields.io/badge/Portfolio-ronel--08.github.io-000?style=flat-square&logo=github&logoColor=white)](https://ronel-08.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronelm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronelm/)
+[![Email](https://img.shields.io/badge/Email-rma80070%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rma80070@gmail.com)
+
+---
+
+### Roadmap
+<details>
+  <summary>Open roadmap</summary>
+
+- rural‑edu‑gamification: ship public demo after SIH Grand Finale; finalize multilingual assets and offline analytics.  
+- cv‑craft: refine ATS templates, improve PDF fidelity, add section drag‑and‑drop polish and LinkedIn import wizard.  
+- streamflix: deploy GitHub Pages, add search improvements and trailer modal accessibility refinements.  
+
+</details>
