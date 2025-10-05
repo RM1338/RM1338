@@ -1,5 +1,11 @@
-# 🧑‍💻 Ronel Abraham Mathew
+# 👋 Hey there, I'm Ronel
 `Student | B.Tech, Computer Science and Engineering, Class of 2029`
+
+🔭 I’m currently working on **a Gamified Learning Platform for Rural Education**
+
+🌱 I’m currently learning **C++ and DSA
+
+⚡ Fun fact **I debug MongoDB connection errors at 2 AM and still make it to my Digital System Design class the next morning.**
 
 Shipping learning‑driven full‑stack projects, from glassmorphic UIs to offline‑first education tools, with occasional 2 AM bug hunts and 9 AM classes anyway.
 
