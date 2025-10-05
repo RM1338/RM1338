@@ -117,7 +117,7 @@
 ---
 
 ### Stats
-![Ronel's Stats](https://github-readme-stats.vercel.app/api?username=Ronel-08&show_icons=true&theme=radical)
+![Ronel's Stats](https://github-readme-stats.vercel.app/api?username=Ronel-08&show_icons=true&theme=gruvbox)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronel-08&theme=github-dark-blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel-08&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
