@@ -26,10 +26,10 @@
 
 ---
 
-### Languages & Frameworks
+### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,npm,express,mongodb,mysql,git,github,matlab,opencv" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,npm,opencv,express,mongodb,mysql,git,github,matlab,canva" />
   </a>
 </p>
 
