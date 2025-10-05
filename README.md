@@ -115,7 +115,7 @@
 
 ### Stats
 ![Ronel's Stats](https://github-readme-stats.vercel.app/api?username=Ronel-08&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cj445&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ronel-08&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel-08&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
