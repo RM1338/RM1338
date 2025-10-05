@@ -27,27 +27,7 @@
 ---
 
 ### Languages & Frameworks
-<!-- Languages -->
-<p align="center" style="display:flex; gap:30px; align-items:center; flex-wrap:wrap; margin-bottom:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />
-</p>
-
----
-
-### Frameworks
-<!-- Frameworks & Libraries -->
-<p align="center" style="display:flex; gap:30px; align-items:center; flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="60" />
-  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router" height="60" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="60" />
-  <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" height="60" />
-  <img src="https://cdn.simpleicons.org/themoviedatabase/01D277" alt="TMDB API" height="60" />
-  <img src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" height="60" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,npm,express,mongodb,mysql,git,github,matlab,opencv)](https://skillicons.dev)
 
 ---
 
