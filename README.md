@@ -1,7 +1,7 @@
 # 🧑‍💻 Ronel Abraham Mathew 
 
-`Student 
-Bachelors in Technology, Computer Science and Engineering ’29 `
+`Student` 
+`Bachelors in Technology, Computer Science and Engineering ’29 `
 
 Shipping learning‑driven full‑stack projects, from glassmorphic UIs to offline‑first education tools, with occasional 2 AM bug hunts and 9 AM classes anyway.
 
