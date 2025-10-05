@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Ronel
-**`Student | B.Tech, Computer Science and Engineering, Class of 2029`**
+**`Student | Bachelor of Technology, Computer Science and Engineering | Class of 2029`**
 
 🔭 I’m currently working on **a Gamified Learning Platform for Rural Education**
 
