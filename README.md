@@ -1,4 +1,6 @@
-# Ronel Abraham Mathew — BTech CSE ’29 | Aspiring SWE | Tech Enthusiast
+# 🧑‍💻 Ronel Abraham Mathew 
+
+**BTech CSE ’29**
 
 Shipping learning‑driven full‑stack projects, from glassmorphic UIs to offline‑first education tools, with occasional 2 AM bug hunts and 9 AM classes anyway.
 
