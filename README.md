@@ -38,15 +38,15 @@
     
 <!-- Frameworks & Libraries -->
   <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="60" />
   <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="60" />
   <!-- Axios -->
-  <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" height="48" />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" height="60" />
   <!-- The Movie Database (TMDB API) -->
-  <img src="https://cdn.simpleicons.org/themoviedatabase/01D277" alt="TMDB API" height="48" />
+  <img src="https://cdn.simpleicons.org/themoviedatabase/01D277" alt="TMDB API" height="60" />
   <!-- GitHub Pages (deployment) -->
-  <img src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" height="48" />
+  <img src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" height="60" />
 </p>
 
 ---
