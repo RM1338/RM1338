@@ -44,7 +44,7 @@
 
 ---
 
-### Projects — showcase
+### Projects
 <i>A three‑slot gallery. Drop an image for each project. Keep titles punchy and link everything.</i>
 
 <table>
