@@ -20,9 +20,7 @@
 ---
 
 ### About
-- Currently building a gamified STEM learning platform for rural education (SIH 2025 shortlisted with Team HackHives).  
-- Learning C++ and DSA to deepen fundamentals while scaling architecture and performance.  
-- Fun fact: debug MongoDB connection errors at 2 AM, still make it to Digital System Design by morning.
+
 
 ---
 
@@ -36,7 +34,6 @@
 ---
 
 ### Projects
-<i>A three‑slot gallery. Drop an image for each project. Keep titles punchy and link everything.</i>
 
 <table>
   <tr>
@@ -117,7 +114,7 @@
 ---
 
 ### Stats
-![Ronel's Stats](https://github-readme-stats.vercel.app/api?username=Ronel-08&show_icons=true&theme=dark)
+![Ronel's Stats](https://github-readme-stats.vercel.app/api?username=Ronel-08&show_icons=true&theme=github-dark-blue)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronel-08&theme=github-dark-blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel-08&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
