@@ -38,7 +38,7 @@
 
 ---
 
-###Frameworks
+### Frameworks
 <!-- Frameworks & Libraries -->
 <p align="center" style="display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="48" />
@@ -48,10 +48,6 @@
   <img src="https://cdn.simpleicons.org/themoviedatabase/01D277" alt="TMDB API" height="48" />
   <img src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" height="48" />
 </p>
-
----
-
-
 
 ---
 
