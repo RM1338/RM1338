@@ -29,7 +29,7 @@
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,npm,opencv,express,mongodb,mysql,git,github,matlab,canva" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,materialui,npm,opencv,nodejs,express,mongodb,mysql,git,github,matlab" />
   </a>
 </p>
 
