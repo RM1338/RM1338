@@ -125,10 +125,14 @@
 
 ---
 
-### Stats and widgets (all‑time)
+### Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronel-08&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel-08&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronel-08&theme=github-dark-blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel-08&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ronel-08&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)
 
 ---
