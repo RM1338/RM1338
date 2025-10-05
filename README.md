@@ -102,7 +102,7 @@
 
 ---
 
-### Certifications (ranked for SWE impact)
+### Certifications
 ![OCI AI Foundations](https://img.shields.io/badge/Oracle_AI_Foundations-2025-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Helsinki Intro to AI](https://img.shields.io/badge/University_of_Helsinki-Intro_to_AI-0072C6?style=flat-square)
 ![IBM Web Dev](https://img.shields.io/badge/IBM-Web_Development-054ADA?style=flat-square&logo=ibm&logoColor=white)
