@@ -122,7 +122,7 @@
 
 ### Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rm1338&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RM1338&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
