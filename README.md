@@ -8,12 +8,11 @@
 ⚡ Fun fact: **I debug MongoDB connection errors at 2 AM and still make it to my Digital System Design class the next morning.**
 
 <!-- Top badges: metrics + quick actions -->
-![Profile views](https://komarev.com/ghpvc/?username=Ronel-08&style=flat-square&color=blue)
-![Followers](https://img.shields.io/github/followers/Ronel-08?style=flat-square&logo=github)
-![Stars](https://img.shields.io/github/stars/Ronel-08?affiliations=OWNER&style=flat-square&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=Rm1338&style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/RM1338?style=flat-square&logo=github)
 [![Open to Internships](https://img.shields.io/badge/Open_to-Internships-2ea44f?style=flat-square)]()
 [![Open to Hackathons](https://img.shields.io/badge/Open_to-Hackathons-8a2be2?style=flat-square)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-ronel--08.github.io-000?style=flat-square&logo=github&logoColor=white)](https://ronel-08.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rm1338.github.io-000?style=flat-square&logo=github&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronelm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronelm/)
 [![Email](https://img.shields.io/badge/Email-rma80070%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rma80070@gmail.com)
 
@@ -38,12 +37,12 @@
 <table>
   <tr>
     <td width="33%">
-      <a href="https://Ronel-08.github.io/todo-app">
+      <a href="https://RM1338.github.io/todo-app">
         <img src="./assets/todo-app.png" alt="todo-app thumbnail" width="100%">
       </a>
       <h4>todo‑app</h4>
       <p>A modern, feature‑rich task manager with glassmorphic UI, dark/light themes, advanced filters, and LocalStorage autosave.</p>
-      <p>🔗 <a href="https://github.com/Ronel-08/todo-app.git">Repo</a> • <a href="https://Ronel-08.github.io/todo-app">Demo</a></p>
+      <p>🔗 <a href="https://github.com/RM1338/todo-app.git">Repo</a> • <a href="https://RM1338.github.io/todo-app">Demo</a></p>
       <sub>Tags: React 18, Context API, CSS3, LocalStorage, GitHub Pages</sub>
     </td>
     <td width="33%">
@@ -52,7 +51,7 @@
       </a>
       <h4>cv‑craft</h4>
       <p>ATS‑optimized resume builder with templates, live preview, autosave, and one‑click PDF export.</p>
-      <p>🔗 <a href="https://github.com/Ronel-08/resume-builder">Repo</a> • <a href="https://resume-builder-pro.vercel.app">Demo</a></p>
+      <p>🔗 <a href="https://github.com/RM1338/resume-builder">Repo</a> • <a href="https://resume-builder-pro.vercel.app">Demo</a></p>
       <sub>Tags: React 18, Tailwind, Next/Express, MongoDB, NextAuth, S3</sub>
     </td>
     <td width="33%">
