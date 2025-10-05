@@ -5,9 +5,7 @@
 
 🌱 I’m currently learning **C++ and DSA**
 
-⚡ Fun fact **I debug MongoDB connection errors at 2 AM and still make it to my Digital System Design class the next morning.**
-
-Shipping learning‑driven full‑stack projects, from glassmorphic UIs to offline‑first education tools, with occasional 2 AM bug hunts and 9 AM classes anyway.
+⚡ Fun fact: **I debug MongoDB connection errors at 2 AM and still make it to my Digital System Design class the next morning.**
 
 <!-- Top badges: metrics + quick actions -->
 ![Profile views](https://komarev.com/ghpvc/?username=Ronel-08&style=flat-square&color=blue)
