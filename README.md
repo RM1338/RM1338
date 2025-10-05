@@ -96,29 +96,6 @@
 
 ---
 
-### Projects — quick links
-- todo‑app — Live & production‑ready.  
-  [![Status: Live](https://img.shields.io/badge/Status-Live-2ea44f?style=flat-square)]()
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://Ronel-08.github.io/todo-app)
-  [![Repo](https://img.shields.io/badge/Code-Repository-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ronel-08/todo-app.git)
-
-- rural‑edu‑gamification — In development; SIH 2025 shortlisted (Team Lead, HackHives).  
-  [![Status: In Development](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)]()
-  [![Demo](https://img.shields.io/badge/Demo-Coming_Soon-grey?style=flat-square)]()
-  [![Repo](https://img.shields.io/badge/Repo-Link_to_be_added-lightgrey?style=flat-square)]()
-
-- cv‑craft — MVP online with core features and PDF export.  
-  [![Status: MVP](https://img.shields.io/badge/Status-MVP-blue?style=flat-square)]()
-  [![Live Demo](https://img.shields.io/badge/Live-Resume_Builder_Pro-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://resume-builder-pro.vercel.app)
-  [![Repo](https://img.shields.io/badge/Code-Repository-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ronel-08/resume-builder)
-
-- streamflix — MVP with TMDB data integration.  
-  [![Status: MVP](https://img.shields.io/badge/Status-MVP-blue?style=flat-square)]()
-  [![Live Demo](https://img.shields.io/badge/Live-Add_URL-ffb000?style=flat-square)]()
-  [![Repo](https://img.shields.io/badge/Code-Repository-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ronel-08/streamflix)
-
----
-
 ### Education
 - B.Tech in Computer Science and Engineering, Karunya Institute of Technology and Sciences — Class of 2029.  
 - Coursework: Programming for Problem Solving (C), Digital System Design, Web Technology, Linear Algebra and Calculus.
