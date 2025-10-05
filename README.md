@@ -90,18 +90,18 @@
 ---
 
 ### Certifications
-![OCI AI Foundations](https://img.shields.io/badge/Oracle_AI_Foundations-2025-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Helsinki Intro to AI](https://img.shields.io/badge/University_of_Helsinki-Intro_to_AI-0072C6?style=flat-square)
-![IBM Web Dev](https://img.shields.io/badge/IBM-Web_Development-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![Kaggle Intro ML](https://img.shields.io/badge/Kaggle-Intro_to_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![OpenCV Bootcamp](https://img.shields.io/badge/OpenCV-Bootcamp-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Kaggle Python](https://img.shields.io/badge/Kaggle-Python-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![NVIDIA OpenUSD](https://img.shields.io/badge/NVIDIA-OpenUSD-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![OpenCV Python](https://img.shields.io/badge/OpenCV-Python_for_Beginners-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Cisco HTML](https://img.shields.io/badge/Cisco-HTML_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco CSS](https://img.shields.io/badge/Cisco-CSS_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Kaggle Intro Prog](https://img.shields.io/badge/Kaggle-Intro_to_Programming-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![LinkedIn Intro AI](https://img.shields.io/badge/LinkedIn-Intro_to_AI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+[![OCI AI Foundations](https://img.shields.io/badge/Oracle-AI_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/RM1338/RM1338/blob/main/oracle.jpg?raw=true)
+[![Helsinki Intro to AI](https://img.shields.io/badge/University_of_Helsinki-Intro_to_AI-0072C6?style=flat-square)](https://github.com/RM1338/RM1338/blob/main/Introduction%20to%20AI.png?raw=true)
+[![IBM Web Dev](https://img.shields.io/badge/IBM-Web_Development-054ADA?style=flat-square&logo=ibm&logoColor=white)](#)
+[![Kaggle Intro ML](https://img.shields.io/badge/Kaggle-Intro_to_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://github.com/RM1338/RM1338/blob/main/Intro%20to%20Machine%20Learning.png?raw=true)
+[![OpenCV Bootcamp](https://img.shields.io/badge/OpenCV-Bootcamp-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/RM1338/RM1338/blob/main/opencv-bootcamp.jpg?raw=true)
+[![Kaggle Python](https://img.shields.io/badge/Kaggle-Python-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://github.com/RM1338/RM1338/blob/main/Python.png?raw=true)
+[![NVIDIA OpenUSD](https://img.shields.io/badge/NVIDIA-OpenUSD-76B900?style=flat-square&logo=nvidia&logoColor=white)](#)
+[![OpenCV Python](https://img.shields.io/badge/OpenCV-Python_for_Beginners-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/RM1338/RM1338/blob/main/opencv-python.jpg?raw=true)
+[![Cisco HTML](https://img.shields.io/badge/Cisco-HTML_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://github.com/RM1338/RM1338/blob/main/html-essentials.jpg?raw=true)
+[![Cisco CSS](https://img.shields.io/badge/Cisco-CSS_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://github.com/RM1338/RM1338/blob/main/css-essentials.jpg?raw=true)
+[![Kaggle Intro Prog](https://img.shields.io/badge/Kaggle-Intro_to_Programming-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://github.com/RM1338/RM1338/blob/main/Intro%20to%20Programming.png?raw=true)
+[![LinkedIn Intro AI](https://img.shields.io/badge/LinkedIn-Intro_to_AI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 ---
 
