@@ -50,12 +50,12 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <sub>Tags: React 18, Context API, CSS3, LocalStorage, GitHub Pages</sub>
     </td>
     <td width="33%">
-      <a href="https://resume-builder-pro.vercel.app">
+      <a href="#">
         <img src="https://github.com/RM1338/RM1338/blob/main/resume-builder_thumbnail.jpg?raw=true" alt="resume-builder thumbnail" width="100%">
       </a>
       <h4>Resume Builder</h4>
       <p>ATS‑optimized resume builder with templates, live preview, autosave, and one‑click PDF export.</p>
-      <p>🔗 <a href="https://github.com/RM1338/resume-builder">Repo</a> • <a href="https://resume-builder-pro.vercel.app">Demo</a></p>
+      <p>🔗 <a href="https://github.com/RM1338/resume-builder">Repo</a> • <a href="#">Demo</a></p>
       <sub>Tags: React 18, Tailwind CSS, Express, MongoDB, JWT Auth, Vite, ATS Optimization, Glassmorphism</sub>
     </td>
     <td width="33%">
