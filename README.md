@@ -51,7 +51,7 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
     </td>
     <td width="33%">
       <a href="https://resume-builder-pro.vercel.app">
-        <img src="./assets/cv-craft.png" alt="cv-craft thumbnail" width="100%">
+        <img src="./assets/cv-craft.png" alt="resume-builder thumbnail" width="100%">
       </a>
       <h4>Resume Builder</h4>
       <p>ATS‑optimized resume builder with templates, live preview, autosave, and one‑click PDF export.</p>
