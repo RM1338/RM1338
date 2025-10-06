@@ -86,8 +86,9 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
 ---
 
 ### Education
-Bachelor of Technology (BTech) in Computer Science and Engineering                                                                                            2025-2029
-Karunya Institute of Technology and Sciences
+Degree:
+
+- Bachelor of Technology in Computer Science and Engineering Karunya Institute of Technology and Sciences | Karunya Institute od Technology and Sciences | 2025 - 2029
 
 Current coursework includes:
 
