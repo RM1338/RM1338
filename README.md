@@ -40,7 +40,7 @@
       <a href="https://RM1338.github.io/todo-app">
         <img src="https://github.com/RM1338/RM1338/blob/main/To-do_List.jpg?raw=true" alt="todo-app thumbnail" width="100%">
       </a>
-      <h4>todo‑app</h4>
+      <h4>To-do List (Webapp)</h4>
       <p>A modern, feature‑rich task manager with glassmorphic UI, dark/light themes, advanced filters, and LocalStorage autosave.</p>
       <p>🔗 <a href="https://github.com/RM1338/todo-app.git">Repo</a> • <a href="https://RM1338.github.io/todo-app">Demo</a></p>
       <sub>Tags: React 18, Context API, CSS3, LocalStorage, GitHub Pages</sub>
