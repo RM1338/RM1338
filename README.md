@@ -38,7 +38,7 @@
   <tr>
     <td width="33%">
       <a href="https://RM1338.github.io/todo-app">
-        <img src="./assets/todo-app.png" alt="todo-app thumbnail" width="100%">
+        <img src="https://github.com/RM1338/RM1338/blob/main/To-do_List.jpg?raw=true" alt="todo-app thumbnail" width="100%">
       </a>
       <h4>todo‑app</h4>
       <p>A modern, feature‑rich task manager with glassmorphic UI, dark/light themes, advanced filters, and LocalStorage autosave.</p>
