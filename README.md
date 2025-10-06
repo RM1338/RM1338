@@ -19,7 +19,11 @@
 ---
 
 ### About
+I am a first-year BTech Computer Science Engineering student at Karunya Institute of Technology and Sciences, passionate about web development, full-stack engineering, and innovative technology solutions. I enjoy building projects that blend creativity with practical functionality, such as my React-based Spotify clone leveraging real-time API integration, a responsive to-do list application with efficient task management features, and multilingual education platforms integrated with Google Cloud Translate API.
 
+Actively involved in hackathons, I focus on developing creative and impactful solutions through collaborative problem solving. Besides coding, I spend time mastering new programming languages and frameworks, working on competitive programming challenges, and continuously enhancing my portfolio through real-world projects.
+
+My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services, while I’m always expanding my expertise in AI, machine learning, and software engineering principles. I also enjoy sharing my learning journey and project adventures with peers and mentors through LinkedIn.
 
 ---
 
