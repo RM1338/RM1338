@@ -86,18 +86,18 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
 ---
 
 ### Education
-Bachelor of Technology (BTech) in Computer Science and Engineering
-<span style="float:right;">2025 - 2029</span>
+Bachelor of Technology (BTech) in Computer Science and Engineering                                                                                            2025-2029
 Karunya Institute of Technology and Sciences
+
 Current coursework includes:
 
-Programming for Problem Solving (C)
+- Programming for Problem Solving (C)
 
-Digital System Design
+- Digital System Design
 
-Web Technology
-
-Linear Algebra and Calculus
+- Web Technology
+  
+- Linear Algebra and Calculus
 
 ---
 
