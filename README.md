@@ -79,8 +79,6 @@
   </tr>
 </table>
 
-<i>Tip: put images at ./assets/project-*.png · 1280×720 works well · keep file sizes small for fast load.</i>
-
 ---
 
 ### Education
