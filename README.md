@@ -53,7 +53,7 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <a href="https://resume-builder-pro.vercel.app">
         <img src="./assets/cv-craft.png" alt="cv-craft thumbnail" width="100%">
       </a>
-      <h4>cv‑craft</h4>
+      <h4>Reseme Builder</h4>
       <p>ATS‑optimized resume builder with templates, live preview, autosave, and one‑click PDF export.</p>
       <p>🔗 <a href="https://github.com/RM1338/resume-builder">Repo</a> • <a href="https://resume-builder-pro.vercel.app">Demo</a></p>
       <sub>Tags: React 18, Tailwind, Next/Express, MongoDB, NextAuth, S3</sub>
