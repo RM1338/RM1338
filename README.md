@@ -69,7 +69,7 @@
       <a href="">
         <img src="./assets/rural-edu.png" alt="rural-edu-gamification thumbnail" width="100%">
       </a>
-      <h4>rural‑edu‑gamification</h4>
+      <h4>Gamified Learning Platforrm for Rural Education (Edunova)</h4>
       <p>Gamified STEM learning with offline support, adaptive paths, multilingual UI, and teacher dashboards (SIH 2025 shortlisted).</p>
       <p>🔗 <a href="">Repo</a> • <a href="">Demo</a></p>
       <sub>Tags: React/Next TS, Node/Express, MongoDB, PWA, TensorFlow.js</sub>
