@@ -111,9 +111,9 @@
 ---
 
 ### Stats
-![Ronel's Stats](https://github-readme-stats.vercel.app/api?username=RM1338&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RM1338&theme=radical&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RM1338&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RM1338&show_icons=true&theme=radical" alt="Ronel's Stats" /> </p> <p align="center"> <br/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RM1338&theme=radical&hide_border=false" alt="Streak" /> </p> <p align="center"> <br/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RM1338&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Lang" /> </p> <p align="center"> <br/> </p>
 
 ---
 
