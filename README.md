@@ -71,7 +71,7 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
   <tr>
     <td width="33%">
       <a href="">
-        <img src="./assets/rural-edu.png" alt="rural-edu-gamification thumbnail" width="100%">
+        <img src="https://github.com/RM1338/RM1338/blob/main/rural-edu-gamification.png?raw=true" alt="rural-edu-gamification thumbnail" width="100%">
       </a>
       <h4>Gamified Learning Platforrm for Rural Education (Edunova)</h4>
       <p>Gamified STEM learning with offline support, adaptive paths, multilingual UI, and teacher dashboards (SIH 2025 shortlisted).</p>
