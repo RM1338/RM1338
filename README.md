@@ -62,10 +62,10 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <a href="">
         <img src="./assets/streamflix.png" alt="streamflix thumbnail" width="100%">
       </a>
-      <h4>Spotify (UI)</h4>
-      <p>Pixel‑perfect Netflix UI clone with TMDB data, dynamic carousels, banner/trailers, and search.</p>
-      <p>🔗 <a href="https://github.com/Rm1338/streamflix">Repo</a> • <a href="">Demo</a></p>
-      <sub>Tags: React 18, TMDB API, React Router, Axios, CSS3</sub>
+      <h4>Diet Dash</h4>
+      <p>Interactive nutrition education platform with gamification engine, role‑based authentication, real‑time analytics, and responsive glassmorphic design.</p>
+      <p>🔗 <a href="https://github.com/Rm1338/diet-dash">Repo</a> • <a href="#">Demo</a></p>
+      <sub>Tags: React 18, TailwindCSS, React Router, Axios, MongoDB, JWT Auth, Gamification, Bcrypt</sub>
     </td>
   </tr>
   <tr>
