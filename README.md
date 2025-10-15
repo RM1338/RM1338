@@ -60,7 +60,7 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
     </td>
     <td width="33%">
       <a href="">
-        <img src="./assets/streamflix.png" alt="streamflix thumbnail" width="100%">
+        <img src="https://github.com/RM1338/RM1338/blob/main/diet-dash.png?raw=true" alt="diet-dash thumbnail" width="100%">
       </a>
       <h4>Diet Dash</h4>
       <p>Interactive nutrition education platform with gamification engine, role‑based authentication, real‑time analytics, and responsive glassmorphic design.</p>
