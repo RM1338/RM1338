@@ -75,7 +75,7 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       </a>
       <h4>Gamified Learning Platforrm for Rural Education (Edunova)</h4>
       <p>Gamified STEM learning with offline support, adaptive paths, multilingual UI, and teacher dashboards (SIH 2025 shortlisted).</p>
-      <p>🔗 <a href="">Repo</a> • <a href="">Demo</a></p>
+      <p>🔗 <a href="https://github.com/RM1338/edunova.git">Repo</a> • <a href="">Demo</a></p>
       <sub>Tags: React/Next TS, Node/Express, MongoDB, PWA, TensorFlow.js</sub>
     </td>
     <td width="33%"><!-- slot available --></td>
