@@ -12,7 +12,7 @@
 ![Followers](https://img.shields.io/github/followers/RM1338?style=flat-square&logo=github)
 [![Open to Internships](https://img.shields.io/badge/Open_to-Internships-2ea44f?style=flat-square)]()
 [![Open to Hackathons](https://img.shields.io/badge/Open_to-Hackathons-8a2be2?style=flat-square)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-rm1338.github.io-000?style=flat-square&logo=github&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-rm1338.github.io-000?style=flat-square&logo=github&logoColor=white)](https://rm1338.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronelm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronelm/)
 [![Email](https://img.shields.io/badge/Email-rma80070%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rma80070@gmail.com)
 
