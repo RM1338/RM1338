@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **a Gamified Learning Platform for Rural Education**
 
-🌱 I’m currently learning **C++ and DSA**
+🌱 I’m currently learning **C and DSA**
 
 ⚡ Fun fact: **I debug MongoDB connection errors at 2 AM and still make it to my Digital System Design class the next morning.**
 
