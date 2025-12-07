@@ -80,14 +80,13 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <sub>Tags: React/Next TS, Node/Express, MongoDB, PWA, TensorFlow.js</sub>
     </td>
     <td width="33%">
-      <!-- PROJECT 5 - EDIT HERE -->
-      <a href="[PROJECT_URL]">
-        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
+      <a href="">
+        <img src="https://github.com/RM1338/RM1338/blob/main/FlappyBird%20-%20Thumbnail.png?raw=true" alt="Flappy Bird thumbnail" width="100%">
       </a>
-      <h4>[PROJECT_NAME]</h4>
-      <p>[BRIEF_DESCRIPTION]</p>
-      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
-      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
+      <h4>Flappy Bird (Clone)</h4>
+      <p>C game with raylib - pixel art, smooth physics, tap-to-flap mechanics</p>
+      <p>🔗 <a href="https://github.com/RM1338/FlappyBird">Repo</a> • <a href="#">Demo</a></p>
+      <sub>Tags: C, raylib, GameDev, GCC</sub>
     </td>
     <td width="33%">
       <!-- PROJECT 6 - EDIT HERE -->
