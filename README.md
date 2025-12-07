@@ -68,18 +68,70 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <sub>Tags: React 18, TailwindCSS, React Router, Axios, MongoDB, JWT Auth, Gamification, Bcrypt</sub>
     </td>
   </tr>
+  
   <tr>
     <td width="33%">
       <a href="">
         <img src="https://github.com/RM1338/RM1338/blob/main/rural-edu-gamification.png?raw=true" alt="rural-edu-gamification thumbnail" width="100%">
       </a>
-      <h4>Gamified Learning Platforrm for Rural Education (Edunova)</h4>
+      <h4>Gamified Learning Platform for Rural Education (Edunova)</h4>
       <p>Gamified STEM learning with offline support, adaptive paths, multilingual UI, and teacher dashboards (SIH 2025 shortlisted).</p>
       <p>🔗 <a href="https://github.com/RM1338/edunova.git">Repo</a> • <a href="">Demo</a></p>
       <sub>Tags: React/Next TS, Node/Express, MongoDB, PWA, TensorFlow.js</sub>
     </td>
-    <td width="33%"><!-- slot available --></td>
-    <td width="33%"><!-- slot available --></td>
+    <td width="33%">
+      <!-- PROJECT 5 - EDIT HERE -->
+      <a href="[PROJECT_URL]">
+        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
+      </a>
+      <h4>[PROJECT_NAME]</h4>
+      <p>[BRIEF_DESCRIPTION]</p>
+      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
+      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
+    </td>
+    <td width="33%">
+      <!-- PROJECT 6 - EDIT HERE -->
+      <a href="[PROJECT_URL]">
+        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
+      </a>
+      <h4>[PROJECT_NAME]</h4>
+      <p>[BRIEF_DESCRIPTION]</p>
+      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
+      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="33%">
+      <!-- PROJECT 7 - EDIT HERE -->
+      <a href="[PROJECT_URL]">
+        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
+      </a>
+      <h4>[PROJECT_NAME]</h4>
+      <p>[BRIEF_DESCRIPTION]</p>
+      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
+      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
+    </td>
+    <td width="33%">
+      <!-- PROJECT 8 - EDIT HERE -->
+      <a href="[PROJECT_URL]">
+        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
+      </a>
+      <h4>[PROJECT_NAME]</h4>
+      <p>[BRIEF_DESCRIPTION]</p>
+      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
+      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
+    </td>
+    <td width="33%">
+      <!-- PROJECT 9 - EDIT HERE -->
+      <a href="[PROJECT_URL]">
+        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
+      </a>
+      <h4>[PROJECT_NAME]</h4>
+      <p>[BRIEF_DESCRIPTION]</p>
+      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
+      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
+    </td>
   </tr>
 </table>
 
