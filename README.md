@@ -90,46 +90,17 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
     </td>
     <td width="33%">
       <!-- PROJECT 6 - EDIT HERE -->
-      <a href="[PROJECT_URL]">
-        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
-      </a>
-      <h4>[PROJECT_NAME]</h4>
-      <p>[BRIEF_DESCRIPTION]</p>
-      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
-      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
-    </td>
   </tr>
   
   <tr>
     <td width="33%">
       <!-- PROJECT 7 - EDIT HERE -->
-      <a href="[PROJECT_URL]">
-        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
-      </a>
-      <h4>[PROJECT_NAME]</h4>
-      <p>[BRIEF_DESCRIPTION]</p>
-      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
-      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
     </td>
     <td width="33%">
       <!-- PROJECT 8 - EDIT HERE -->
-      <a href="[PROJECT_URL]">
-        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
-      </a>
-      <h4>[PROJECT_NAME]</h4>
-      <p>[BRIEF_DESCRIPTION]</p>
-      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
-      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
     </td>
     <td width="33%">
       <!-- PROJECT 9 - EDIT HERE -->
-      <a href="[PROJECT_URL]">
-        <img src="https://github.com/RM1338/RM1338/blob/main/[THUMBNAIL_FILENAME]?raw=true" alt="[PROJECT_NAME] thumbnail" width="100%">
-      </a>
-      <h4>[PROJECT_NAME]</h4>
-      <p>[BRIEF_DESCRIPTION]</p>
-      <p>🔗 <a href="[GITHUB_REPO_URL]">Repo</a> • <a href="[DEMO_URL]">Demo</a></p>
-      <sub>Tags: [TECH1], [TECH2], [TECH3]</sub>
     </td>
   </tr>
 </table>
