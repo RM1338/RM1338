@@ -19,11 +19,17 @@
 ---
 
 ### About
-I am a first-year BTech Computer Science Engineering student at Karunya Institute of Technology and Sciences, passionate about web development, full-stack engineering, and innovative technology solutions. I enjoy building projects that blend creativity with practical functionality, such as my React-based Spotify clone, a responsive to-do list application with efficient task management features, and multilingual education platforms integrated with Google Cloud Translate API (Under development).
+I am a first-year BTech Computer Science Engineering student at Karunya Institute of Technology and Sciences, passionate about web development, full-stack engineering, and innovative technology solutions. I enjoy building projects that blend creativity with practical functionality, including:
+
+- **Flappy Bird Clone** - A feature-rich game built in C with Raylib, featuring a 3-life system, screen shake effects, and pixel-perfect collision detection
+- **PassGuard** - A local password management application with Caesar cipher encryption and raylib GUI
+- **VenturaFund** - A multi-category crowdfunding platform supporting Medical, Educational, Business, and Emergency campaigns
+- **Diet Dash** - A gamified nutrition learning platform with role-based authentication and interactive challenges
+- **Todo Master** - A modern task management app with glassmorphic UI and advanced filtering
 
 Actively involved in hackathons, I focus on developing creative and impactful solutions through collaborative problem solving. Besides coding, I spend time mastering new programming languages and frameworks, working on competitive programming challenges, and continuously enhancing my portfolio through real-world projects.
 
-My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services, while I'm always expanding my expertise in AI, machine learning, and software engineering principles. I also enjoy sharing my learning journey and project adventures with peers and mentors through LinkedIn.
+My technical toolkit includes React, Node.js, MongoDB Atlas, C, Raylib, and cloud services, while I'm always expanding my expertise in AI, machine learning, and software engineering principles. I also enjoy sharing my learning journey and project adventures with peers and mentors through LinkedIn.
 
 ---
 
@@ -50,23 +56,22 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <sub>Tags: C, raylib, GameDev, GCC</sub>
     </td>
     <td width="33%">
-      <!-- PassGuard - Add your details here -->
-      <a href="#">
+      <a href="https://github.com/RM1338/PassGaurd">
         <img src="https://github.com/RM1338/RM1338/blob/main/passguard%20thumbnail.png?raw=true" alt="PassGuard thumbnail" width="100%">
       </a>
       <h4>PassGuard</h4>
-      <p>Add your PassGuard description here</p>
+      <p>Local password manager with Caesar cipher encryption and raylib GUI. Features secure registration, authentication, persistent storage, and interactive user management for educational purposes.</p>
       <p>🔗 <a href="https://github.com/RM1338/PassGaurd">Repo</a> • <a href="#">Demo</a></p>
-      <sub>Tags: Add your tags here</sub>
+      <sub>Tags: C, raylib, Caesar Cipher, File I/O, GUI, GCC</sub>
     </td>
     <td width="33%">
       <a href="https://github.com/RM1338/VenturaFund">
         <img src="https://github.com/RM1338/RM1338/blob/main/VenturaFund%20-%20Thumbnail.png?raw=true" alt="VenturaFund thumbnail" width="100%">
       </a>
       <h4>VenturaFund</h4>
-      <p>Add your VenturaFund description here</p>
+      <p>Multi-category crowdfunding platform for Medical, Educational, Business & Emergency campaigns. Features responsive design, campaign discovery, milestone-based funding, and integrated payment gateway support.</p>
       <p>🔗 <a href="https://github.com/RM1338/VenturaFun">Repo</a> • <a href="#">Demo</a></p>
-      <sub>Tags: Add your tags here</sub>
+      <sub>Tags: HTML5, CSS3, Bootstrap 5, JavaScript, Font Awesome, Responsive Design</sub>
     </td>
   </tr>
   
