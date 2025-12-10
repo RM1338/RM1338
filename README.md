@@ -157,7 +157,7 @@ Current coursework includes:
 
 <div align="center">
   
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/RM1338/RM1338/blob/output/github-snake-dark.svg)
   
 </div>
 
