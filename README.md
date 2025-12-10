@@ -84,7 +84,8 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
         <img src="https://github.com/RM1338/RM1338/blob/main/FlappyBird%20-%20Thumbnail.png?raw=true" alt="Flappy Bird thumbnail" width="100%">
       </a>
       <h4>Flappy Bird (Clone)</h4>
-      <p>C game with raylib - pixel art, smooth physics, tap-to-flap mechanics</p>
+      <p>A complete Flappy Bird game engine written in pure C using Raylib. Implements modular architecture with separate game logic, physics, and rendering systems. Features include state machine management, frame-independent physics, collision detection, procedural pipe generation, persistent data storage, and real-time audio mixing. Well-documented code structure ideal for learning game development patterns in C.()
+</p>
       <p>🔗 <a href="https://github.com/RM1338/FlappyBird">Repo</a> • <a href="#">Demo</a></p>
       <sub>Tags: C, raylib, GameDev, GCC</sub>
     </td>
