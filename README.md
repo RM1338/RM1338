@@ -154,9 +154,9 @@ Current coursework includes:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RM1338&theme=onedark)
 
 ---
-
-![snake gif](https://github.com/RM1338/RM1338/blob/output/github-snake-dark.svg)
-
+<div align="center">
+![snake gif](https://github.com/RM1338/RM1338/blob/output/github-snake-dark.svg
+</div>
 ---
 
 ### Contact & links
