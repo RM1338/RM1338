@@ -60,19 +60,6 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <sub>Tags: Add your tags here</sub>
     </td>
     <td width="33%">
-      <a href="https://github.com/Rm1338/diet-dash">
-        <img src="https://github.com/RM1338/RM1338/blob/main/diet-dash_thumbnail.png?raw=true" alt="diet-dash thumbnail" width="100%">
-      </a>
-      <h4>Diet Dash</h4>
-      <p>Interactive nutrition education platform with gamification engine, role‑based authentication, real‑time analytics, and responsive glassmorphic design.</p>
-      <p>🔗 <a href="https://github.com/Rm1338/diet-dash">Repo</a> • <a href="#">Demo</a></p>
-      <sub>Tags: React 18, TailwindCSS, React Router, Axios, MongoDB, JWT Auth, Gamification, Bcrypt</sub>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="33%">
-      <!-- VenturaFund - Add your details here -->
       <a href="https://github.com/RM1338/VenturaFund">
         <img src="https://github.com/RM1338/RM1338/blob/main/VenturaFund%20-%20Thumbnail.png?raw=true" alt="VenturaFund thumbnail" width="100%">
       </a>
@@ -80,6 +67,18 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <p>Add your VenturaFund description here</p>
       <p>🔗 <a href="https://github.com/RM1338/VenturaFun">Repo</a> • <a href="#">Demo</a></p>
       <sub>Tags: Add your tags here</sub>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="33%">
+      <a href="https://github.com/Rm1338/diet-dash">
+        <img src="https://github.com/RM1338/RM1338/blob/main/diet-dash_thumbnail.png?raw=true" alt="diet-dash thumbnail" width="100%">
+      </a>
+      <h4>Diet Dash</h4>
+      <p>Interactive nutrition education platform with gamification engine, role‑based authentication, real‑time analytics, and responsive glassmorphic design.</p>
+      <p>🔗 <a href="https://github.com/Rm1338/diet-dash">Repo</a> • <a href="#">Demo</a></p>
+      <sub>Tags: React 18, TailwindCSS, React Router, Axios, MongoDB, JWT Auth, Gamification, Bcrypt</sub>
     </td>
     <td width="33%">
       <a href="https://RM1338.github.io/todo-app">
