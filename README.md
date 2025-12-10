@@ -52,7 +52,7 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
     <td width="33%">
       <!-- PassGuard - Add your details here -->
       <a href="#">
-        <img src="#" alt="PassGuard thumbnail" width="100%">
+        <img src="https://github.com/RM1338/RM1338/blob/main/passguard%20thumbnail.png?raw=true" alt="PassGuard thumbnail" width="100%">
       </a>
       <h4>PassGuard</h4>
       <p>Add your PassGuard description here</p>
