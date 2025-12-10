@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Ronel
 **`Student | Bachelor of Technology, Computer Science and Engineering | Class of 2029`**
 
-🔭 I'm currently working on **PassGuard and VenturaFund**
+🔭 I'm currently working on **Flappy Bird Clone**
 
 🌱 I'm currently learning **C and DSA**
 
