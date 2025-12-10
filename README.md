@@ -80,7 +80,7 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <sub>Tags: React/Next TS, Node/Express, MongoDB, PWA, TensorFlow.js</sub>
     </td>
     <td width="33%">
-      <a href="">
+      <a href="https://github.com/RM1338/FlappyBird">
         <img src="https://github.com/RM1338/RM1338/blob/main/FlappyBird%20-%20Thumbnail.png?raw=true" alt="Flappy Bird thumbnail" width="100%">
       </a>
       <h4>Flappy Bird (Clone)</h4>
