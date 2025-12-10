@@ -59,7 +59,7 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
       <sub>Tags: React 18, Tailwind CSS, Express, MongoDB, JWT Auth, Vite, ATS Optimization, Glassmorphism</sub>
     </td>
     <td width="33%">
-      <a href="">
+      <a href="https://github.com/Rm1338/diet-dash">
         <img src="https://github.com/RM1338/RM1338/blob/main/diet-dash_thumbnail.png?raw=true" alt="diet-dash thumbnail" width="100%">
       </a>
       <h4>Diet Dash</h4>
