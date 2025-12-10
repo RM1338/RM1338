@@ -73,12 +73,12 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
   <tr>
     <td width="33%">
       <!-- VenturaFund - Add your details here -->
-      <a href="#">
+      <a href="https://github.com/RM1338/VenturaFund">
         <img src="#" alt="VenturaFund thumbnail" width="100%">
       </a>
       <h4>VenturaFund</h4>
       <p>Add your VenturaFund description here</p>
-      <p>🔗 <a href="#">Repo</a> • <a href="#">Demo</a></p>
+      <p>🔗 <a href="https://github.com/RM1338/VenturaFun">Repo</a> • <a href="#">Demo</a></p>
       <sub>Tags: Add your tags here</sub>
     </td>
     <td width="33%">
