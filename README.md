@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Ronel
 **`Student | Bachelor of Technology, Computer Science and Engineering | Class of 2029`**
 
-🔭 I’m currently working on **a Gamified Learning Platform for Rural Education**
+🔭 I'm currently working on **PassGuard and VenturaFund**
 
-🌱 I’m currently learning **C and DSA**
+🌱 I'm currently learning **C and DSA**
 
 ⚡ Fun fact: **I debug MongoDB connection errors at 2 AM and still make it to my Digital System Design class the next morning.**
 
@@ -23,7 +23,7 @@ I am a first-year BTech Computer Science Engineering student at Karunya Institut
 
 Actively involved in hackathons, I focus on developing creative and impactful solutions through collaborative problem solving. Besides coding, I spend time mastering new programming languages and frameworks, working on competitive programming challenges, and continuously enhancing my portfolio through real-world projects.
 
-My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services, while I’m always expanding my expertise in AI, machine learning, and software engineering principles. I also enjoy sharing my learning journey and project adventures with peers and mentors through LinkedIn.
+My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services, while I'm always expanding my expertise in AI, machine learning, and software engineering principles. I also enjoy sharing my learning journey and project adventures with peers and mentors through LinkedIn.
 
 ---
 
@@ -41,22 +41,23 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
 <table>
   <tr>
     <td width="33%">
-      <a href="https://RM1338.github.io/todo-app">
-        <img src="https://github.com/RM1338/RM1338/blob/main/To-do_List.jpg?raw=true" alt="todo-app thumbnail" width="100%">
+      <a href="https://github.com/RM1338/FlappyBird">
+        <img src="https://github.com/RM1338/RM1338/blob/main/FlappyBird%20-%20Thumbnail.png?raw=true" alt="Flappy Bird thumbnail" width="100%">
       </a>
-      <h4>To-do List (Webapp)</h4>
-      <p>A modern, feature‑rich task manager with glassmorphic UI, dark/light themes, and advanced filters</p>
-      <p>🔗 <a href="https://github.com/RM1338/todo-app.git">Repo</a> • <a href="https://RM1338.github.io/todo-app">Demo</a></p>
-      <sub>Tags: React 18, Context API, CSS3, LocalStorage, GitHub Pages</sub>
+      <h4>Flappy Bird (Clone)</h4>
+      <p>A feature-rich Flappy Bird clone built in C with Raylib. Includes 3-life system, screen shake, settings menu, and pixel-perfect collision detection. Retro aesthetics meet modern game design!</p>
+      <p>🔗 <a href="https://github.com/RM1338/FlappyBird">Repo</a> • <a href="#">Demo</a></p>
+      <sub>Tags: C, raylib, GameDev, GCC</sub>
     </td>
     <td width="33%">
+      <!-- PassGuard - Add your details here -->
       <a href="#">
-        <img src="https://github.com/RM1338/RM1338/blob/main/resume-builder_thumbnail.jpg?raw=true" alt="resume-builder thumbnail" width="100%">
+        <img src="#" alt="PassGuard thumbnail" width="100%">
       </a>
-      <h4>Resume Builder</h4>
-      <p>ATS‑optimized resume builder with templates, live preview, autosave, and one‑click PDF export.</p>
-      <p>🔗 <a href="https://github.com/RM1338/resume-builder">Repo</a> • <a href="#">Demo</a></p>
-      <sub>Tags: React 18, Tailwind CSS, Express, MongoDB, JWT Auth, Vite, ATS Optimization, Glassmorphism</sub>
+      <h4>PassGuard</h4>
+      <p>Add your PassGuard description here</p>
+      <p>🔗 <a href="#">Repo</a> • <a href="#">Demo</a></p>
+      <sub>Tags: Add your tags here</sub>
     </td>
     <td width="33%">
       <a href="https://github.com/Rm1338/diet-dash">
@@ -71,36 +72,26 @@ My technical toolkit includes React, Node.js, MongoDB Atlas, and cloud services,
   
   <tr>
     <td width="33%">
-      <a href="">
-        <img src="https://github.com/RM1338/RM1338/blob/main/rural-edu-gamification.png?raw=true" alt="rural-edu-gamification thumbnail" width="100%">
+      <!-- VenturaFund - Add your details here -->
+      <a href="#">
+        <img src="#" alt="VenturaFund thumbnail" width="100%">
       </a>
-      <h4>Gamified Learning Platform for Rural Education (Edunova)</h4>
-      <p>Gamified STEM learning with offline support, adaptive paths, multilingual UI, and teacher dashboards (SIH 2025 shortlisted).</p>
-      <p>🔗 <a href="https://github.com/RM1338/edunova.git">Repo</a> • <a href="">Demo</a></p>
-      <sub>Tags: React/Next TS, Node/Express, MongoDB, PWA, TensorFlow.js</sub>
+      <h4>VenturaFund</h4>
+      <p>Add your VenturaFund description here</p>
+      <p>🔗 <a href="#">Repo</a> • <a href="#">Demo</a></p>
+      <sub>Tags: Add your tags here</sub>
     </td>
     <td width="33%">
-      <a href="https://github.com/RM1338/FlappyBird">
-        <img src="https://github.com/RM1338/RM1338/blob/main/FlappyBird%20-%20Thumbnail.png?raw=true" alt="Flappy Bird thumbnail" width="100%">
+      <a href="https://RM1338.github.io/todo-app">
+        <img src="https://github.com/RM1338/RM1338/blob/main/To-do_List.jpg?raw=true" alt="todo-app thumbnail" width="100%">
       </a>
-      <h4>Flappy Bird (Clone)</h4>
-      <p>A feature-rich Flappy Bird clone built in C with Raylib. Includes 3-life system, screen shake, settings menu, and pixel-perfect collision detection. Retro aesthetics meet modern game design!</p>
-      <p>🔗 <a href="https://github.com/RM1338/FlappyBird">Repo</a> • <a href="#">Demo</a></p>
-      <sub>Tags: C, raylib, GameDev, GCC</sub>
+      <h4>To-do List (Webapp)</h4>
+      <p>A modern, feature‑rich task manager with glassmorphic UI, dark/light themes, and advanced filters</p>
+      <p>🔗 <a href="https://github.com/RM1338/todo-app.git">Repo</a> • <a href="https://RM1338.github.io/todo-app">Demo</a></p>
+      <sub>Tags: React 18, Context API, CSS3, LocalStorage, GitHub Pages</sub>
     </td>
     <td width="33%">
-      <!-- PROJECT 6 - EDIT HERE -->
-  </tr>
-  
-  <tr>
-    <td width="33%">
-      <!-- PROJECT 7 - EDIT HERE -->
-    </td>
-    <td width="33%">
-      <!-- PROJECT 8 - EDIT HERE -->
-    </td>
-    <td width="33%">
-      <!-- PROJECT 9 - EDIT HERE -->
+      <!-- Empty slot for future project -->
     </td>
   </tr>
 </table>
