@@ -155,6 +155,14 @@ Current coursework includes:
 
 ---
 
+<div align="center">
+  
+![snake gif](https://github.com/RM1338/RM1338/blob/output/github-snake-dark.svg)
+  
+</div>
+
+---
+
 ### Contact & links
 [![Portfolio](https://img.shields.io/badge/Portfolio-rm1338.github.io-000?style=flat-square&logo=github&logoColor=white)](https://rm1338.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronelm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronelm/)
