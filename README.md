@@ -19,7 +19,7 @@
 ---
 
 ### About
-I am a first-year BTech Computer Science Engineering student at Karunya Institute of Technology and Sciences, passionate about web development, full-stack engineering, and innovative technology solutions. I enjoy building projects that blend creativity with practical functionality, including:
+I am a first-year BTech Computer Science Engineering student at Karunya Institute of Technology and Sciences, passionate about game development, software engineering, and innovative technology solutions. I enjoy building projects that blend creativity with practical functionality, including:
 
 - **Flappy Bird Clone** - A feature-rich game built in C with Raylib, featuring a 3-life system, screen shake effects, and pixel-perfect collision detection
 - **PassGuard** - A local password management application with Caesar cipher encryption and raylib GUI
