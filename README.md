@@ -164,6 +164,6 @@ Current coursework includes:
 ---
 
 ### Contact & links
-[![Portfolio](https://img.shields.io/badge/Portfolio-rm1338.github.io-000?style=flat-square&logo=github&logoColor=white)](https://rm1338.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio-000?style=flat-square&logo=github&logoColor=white)](http://ronelmathew.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronelm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronelm/)
 [![Email](https://img.shields.io/badge/Email-rma80070%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rma80070@gmail.com)
