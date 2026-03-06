@@ -33,7 +33,7 @@ My technical toolkit includes Flutter, Redis, PostgreSQL, Python, and cloud serv
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,js,html,css,c,react,npm,opencv,nodejs,express,mongodb,postgresql,mysql,redis,git,github,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,flutter,js,c,react,npm,opencv,nodejs,express,mongodb,postgresql,mysql,redis,git,github,matlab" />
   </a>
 </p>
 
