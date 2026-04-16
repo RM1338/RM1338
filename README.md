@@ -19,8 +19,8 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 ---
 
 ### Currently 
-- 🔭 Working on **Swamoz Studio** - Video dubbing software with voice cloning and lip sync
-- 🌱 Learning **Flutter**
+- 🔭 Working on **Aitrios** - Reconstructs the reasoning behind code by traversing version history and synthesizing the “why” from real development context.
+- 🌱 Learning **LangChains and LangGraphs**
 - ⚡ **Fun fact**: I debug PostgreSQL connection errors at 2 AM and still make it to my Computer Architecture class the next morning.
 
 ### Experience & Education
@@ -32,21 +32,18 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 
 ### Selected Projects
 
-> **[Flappy Bird (Clone)](https://github.com/RM1338/FlappyBird)**
-> A feature-rich clone built in C with Raylib. Includes a 3-life system, screen shake, and pixel-perfect collision detection. Built from scratch to deeply understand game engines.
+> **[Aitrios (Clone)](https://github.com/RM1338/Aitrios)**
+> Aitrios is a developer tool that traces a line of code through commits, pull requests, and issues to explain why it was written. It combines deterministic history traversal with structured reasoning to produce grounded, verifiable explanations; no guesswork, no hallucinated context.
 
-> **[Diet Dash](https://github.com/Rm1338/diet-dash)**
-> Interactive nutrition education platform with a gamification engine, role‑based authentication, and responsive glassmorphic design. Built with React, MongoDB, and Express.
+> **[Scribe](https://github.com/Rm1338/Scribe)**
+> Scribe is a cross-platform flutter project that aims to provide a seamless and intuitive experience for transcribing, summarizing and managing meeting recordings.
 
-> **[PassGuard](https://github.com/RM1338/PassGaurd)**
-> Local password manager with Caesar cipher encryption and a Raylib GUI for secure registration and persistent storage.
+> **[URL Shortner](https://github.com/RM1338/URL-Shortner)**
+> Developed a full-stack Flask app that converts long URLs into concise shareable links with auto-generated QR codes, user authentication, and analytics tracking.
 
-> **[VenturaFund](https://github.com/RM1338/VenturaFun)**
-> Multi-category crowdfunding platform featuring responsive design, campaign discovery, and integrated payment gateway support.
-
-> **[To-do List Webapp](https://RM1338.github.io/todo-app)**
-> Modern, feature‑rich task manager with a minimal glassmorphic UI, dark/light themes, and advanced filters.
-
+> **[CLI Task Manager](https://github.com/RM1338/CLI-TaskManager)**
+> Built a production-ready CLI task management tool with full CRUD operations, filtering by status/priority, keyword search, and statistical analytics.
+> 
 ---
 
 ### Tech Stack
