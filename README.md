@@ -19,7 +19,7 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 ---
 
 ### Currently 
-- 🔭 Working on **Aitrios** - Reconstructs the reasoning behind code by traversing version history and synthesizing the “why” from real development context.
+- 🔭 Working on **Aitrios** - Aitrios reconstructs the reasoning behind code by traversing version history and synthesizing the “why” from real development context.
 - 🌱 Learning **LangChains and LangGraphs**
 - ⚡ **Fun fact**: I debug PostgreSQL connection errors at 2 AM and still make it to my Computer Architecture class the next morning.
 
@@ -32,7 +32,7 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 
 ### Selected Projects
 
-> **[Aitrios (Clone)](https://github.com/RM1338/Aitrios)**
+> **[Aitrios](https://github.com/RM1338/Aitrios)**
 > Aitrios is a developer tool that traces a line of code through commits, pull requests, and issues to explain why it was written. It combines deterministic history traversal with structured reasoning to produce grounded, verifiable explanations; no guesswork, no hallucinated context.
 
 > **[Scribe](https://github.com/Rm1338/Scribe)**
