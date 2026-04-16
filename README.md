@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ronel Mathew
+# Ronel Abraham Mathew
 */roʊˈnɛl/ (noun)*
 
 **Product Builder & Software Engineer**
@@ -52,7 +52,7 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,js,c,react,npm,opencv,nodejs,express,mongodb,postgresql,mysql,redis,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,flutter,js,c,react,npm,opencv,nodejs,express,mongodb,postgresql,mysql,redis,git,github" />
   </a>
 </p>
 
@@ -61,8 +61,10 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 <div align="center">
 
 ### Metrics & Activity
-<img src="https://github-readme-stats.vercel.app/api?username=RM1338&show_icons=true&bg_color=ffffff&hide_border=true&title_color=333333&text_color=555555&icon_color=555555" height="150" alt="Ronel's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RM1338&hide_border=true&bg_color=ffffff&title_color=333333&text_color=555555&layout=compact" height="150" alt="Top Lang" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=RM1338&show_icons=true&theme=radical&hide_border=true" height="150" alt="Ronel's Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RM1338&theme=radical&hide_border=true" height="150" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RM1338&theme=radical&hide_border=true&layout=compact" height="150" alt="Top Lang" />
 
 <br/>
 <br/>
@@ -70,7 +72,7 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RM1338/RM1338/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RM1338/RM1338/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RM1338/RM1338/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RM1338/RM1338/output/github-snake-dark.svg">
 </picture>
 
 </div>
