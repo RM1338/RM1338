@@ -37,7 +37,7 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 
 > **[Scribe](https://github.com/Rm1338/Scribe)**
 > Scribe is a cross-platform flutter project that aims to provide a seamless and intuitive experience for transcribing, summarizing and managing meeting recordings.
- 
+> **[Get Scribe](https://getscribe.pages.dev)**
 ---
 
 ### Tech Stack
