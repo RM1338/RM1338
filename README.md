@@ -5,7 +5,7 @@
 
 **Product Builder & Software Engineer**
 
-[Portfolio](http://ronelmathew.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Email](mailto:rma80070@gmail.com)
+[Portfolio](http://ronelmathew.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Email](mailto:rma80070@gmail.com) • [Get Scribe](https://getscribe.pages,dev/) 
 
 </div>
 
@@ -13,8 +13,6 @@
 
 ### About Me
 I’m a software engineer and product builder... a polymath who bridges code architecture with real-world projects to create engaging, scalable apps and workflows. The product building journey is something I've been experimenting with for a long time. Each previous product always feels naive in hindsight, which drives me to keep learning.
-
-I started with a Flappy Bird clone in C, building the physics engine and collision detection from scratch just to understand how things work under the hood. 
 
 ---
 
