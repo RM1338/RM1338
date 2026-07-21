@@ -5,7 +5,7 @@
 
 **Product Builder & Software Engineer**
 
-[Portfolio](http://ronelmathew.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Email](mailto:rma80070@gmail.com) • [Get Scribe](https://getscribe.pages,dev/) 
+[Portfolio](http://ronelmathew.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Email](mailto:rma80070@gmail.com) • [Get Scribe](https://getscribe.pages.dev/) 
 
 </div>
 
