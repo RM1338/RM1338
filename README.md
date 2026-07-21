@@ -32,7 +32,7 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 
 ### Selected Projects
 
-> **[Aitrios](https://github.com/RM1338/Gremlin)**
+> **[Gremlin](https://github.com/RM1338/Gremlin)**
 > An autonomous agent that plays a Flutter app like a confused user, files a reproducible bug report every time the framework screams, and opt-in patches the bug and replays the exact taps to prove it is gone.
 
 > **[Scribe](https://github.com/Rm1338/Scribe)**
