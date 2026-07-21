@@ -19,31 +19,25 @@ I started with a Flappy Bird clone in C, building the physics engine and collisi
 ---
 
 ### Currently 
-- 🔭 Working on **Aitrios** - Aitrios reconstructs the reasoning behind code by traversing version history and synthesizing the “why” from real development context.
+- 🔭 Working on **Gremlin** - An autonomous agent that plays a Flutter app like a confused user, files a reproducible bug report every time the framework screams, and opt-in patches the bug and replays the exact taps to prove it is gone.
 - 🌱 Learning **LangChains and LangGraphs**
-- ⚡ **Fun fact**: I debug PostgreSQL connection errors at 2 AM and still make it to my Computer Architecture class the next morning.
+- ⚡ **Fun fact**: I debug PostgreSQL connection errors at 2 AM and still make it to my Data Structures and Algorithms class the next morning.
 
 ### Experience & Education
 - **AI Engineer Trainee** | Karunya Innovation and Design Studio *(Dec 2025 – Present)*
-- **Technical Trainee** | Google Developer Groups on Campus *(Oct 2025 – Present)*
+- **Technical Trainee** | Google Developer Groups on Campus *(Oct 2025 – Jun 2026)*
 - **B.Tech Computer Science and Engineering** | Karunya Institute of Technology and Sciences *(2025 – Surviving)*
 
 ---
 
 ### Selected Projects
 
-> **[Aitrios](https://github.com/RM1338/Aitrios)**
-> Aitrios is a developer tool that traces a line of code through commits, pull requests, and issues to explain why it was written. It combines deterministic history traversal with structured reasoning to produce grounded, verifiable explanations; no guesswork, no hallucinated context.
+> **[Aitrios](https://github.com/RM1338/Gremlin)**
+> An autonomous agent that plays a Flutter app like a confused user, files a reproducible bug report every time the framework screams, and opt-in patches the bug and replays the exact taps to prove it is gone.
 
 > **[Scribe](https://github.com/Rm1338/Scribe)**
 > Scribe is a cross-platform flutter project that aims to provide a seamless and intuitive experience for transcribing, summarizing and managing meeting recordings.
-
-> **[URL Shortner](https://github.com/RM1338/URL-Shortner)**
-> Developed a full-stack Flask app that converts long URLs into concise shareable links with auto-generated QR codes, user authentication, and analytics tracking.
-
-> **[CLI Task Manager](https://github.com/RM1338/CLI-TaskManager)**
-> Built a production-ready CLI task management tool with full CRUD operations, filtering by status/priority, keyword search, and statistical analytics.
-> 
+ 
 ---
 
 ### Tech Stack
