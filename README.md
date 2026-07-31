@@ -52,8 +52,10 @@ I’m a software engineer and product builder... a polymath who bridges code arc
 ### Metrics & Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=RM1338&show_icons=true&theme=radical&hide_border=true" height="150" alt="Ronel's Stats" />
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RM1338&theme=radical&hide_border=true" height="150" alt="Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RM1338&theme=radical&hide_border=true&layout=compact" height="150" alt="Top Lang" />
+-->
 
 <br/>
 <br/>
