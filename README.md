@@ -41,7 +41,7 @@ I’m a software engineer and product builder... a polymath who bridges code arc
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,js,c,react,npm,opencv,nodejs,express,mongodb,postgresql,mysql,redis,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,flutter,js,c,react,npm,opencv,nodejs,express,mongodb,docker,postgresql,mysql,redis,git,github" />
   </a>
 </p>
 
