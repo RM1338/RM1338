@@ -3,45 +3,52 @@
 # Ronel Abraham Mathew
 */roʊˈnɛl/ (noun)*
 
-**Product Builder & Software Engineer**
+**AI Engineer · Founder of Crewbo**
 
-[Portfolio](http://ronelmathew.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Email](mailto:rma80070@gmail.com) • [Get Scribe](https://getscribe.pages.dev/) 
+[Portfolio](https://rm1338.github.io) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Medium](https://medium.com/@ronelmathew) • [Email](mailto:rma80070@gmail.com) • [Get Scribe](https://getscribe.pages.dev/)
 
 </div>
 
 <br/>
 
 ### About Me
-I’m a software engineer and product builder... a polymath who bridges code architecture with real-world projects to create engaging, scalable apps and workflows. The product building journey is something I've been experimenting with for a long time. Each previous product always feels naive in hindsight, which drives me to keep learning.
+I’m a software engineer and product builder working on agentic AI, and a polymath who bridges code architecture with real-world projects. I’ve been building products for a long time; every earlier one feels naive in hindsight, which is what keeps me learning. Right now that’s **Crewbo**, my startup, so a whole team can run their AI coding agents on one codebase without collisions.
 
 ---
 
-### Currently 
-- 🔭 Working on **Gremlin** - An autonomous agent that plays a Flutter app like a confused user, files a reproducible bug report every time the framework screams, and opt-in patches the bug and replays the exact taps to prove it is gone.
-- 🌱 Learning **LangChains and LangGraphs**
-- ⚡ **Fun fact**: I debug PostgreSQL connection errors at 2 AM and still make it to my Data Structures and Algorithms class the next morning.
-
 ### Experience & Education
-- **AI Engineer Trainee** | Karunya Innovation and Design Studio *(Dec 2025 – Present)*
+- **Agentic AI Engineer** | Karunya Innovation and Design Studio *(Dec 2025 – Present)*
 - **Technical Trainee** | Google Developer Groups on Campus *(Oct 2025 – Jun 2026)*
-- **B.Tech Computer Science and Engineering** | Karunya Institute of Technology and Sciences *(2025 – Surviving)*
+- **B.Tech Computer Science and Engineering** | Karunya Institute of Technology and Sciences *(2025 – Present)*
+
+⚡ **Fun fact**: I debug PostgreSQL connection errors at 2 AM and still make it to my Data Structures and Algorithms class the next morning.
 
 ---
 
 ### Selected Projects
 
-> **[Gremlin](https://github.com/RM1338/Gremlin)**
-> An autonomous agent that plays a Flutter app like a confused user, files a reproducible bug report every time the framework screams, and opt-in patches the bug and replays the exact taps to prove it is gone.
+> **[Crewbo](https://rm1338.github.io/work/crewbo)** · my startup
+> Run every teammate’s AI coding agent on the same repository, at the same time, without collisions. Claude Code, Codex and Antigravity, on Linux, macOS and Windows.
 
-> **[Scribe](https://github.com/Rm1338/Scribe)**
-> Scribe is a cross-platform flutter project that aims to provide a seamless and intuitive experience for transcribing, summarizing and managing meeting recordings.
-> **[Get Scribe](https://getscribe.pages.dev)**
+> **[Gremlin](https://github.com/RM1338/Gremlin)** · [case study](https://rm1338.github.io/work/gremlin)
+> An agent that explores a Flutter app like a confused user, files a bug report whenever the framework logs a failure, and can prove a fix by replaying the exact taps.
+
+> **[Scribe](https://github.com/RM1338/Scribe)** · [case study](https://rm1338.github.io/work/scribe) · [Get Scribe](https://getscribe.pages.dev)
+> An AI meeting recorder that runs on an API key you control and stores recordings only on your phone.
+
+---
+
+### Writing
+- [Crewbo: Letting a Whole Team Run AI Coding Agents on One Repository](https://medium.com/@ronelmathew/crewbo-letting-a-whole-team-run-ai-coding-agents-on-one-repository-d4ace6053e4d)
+- [Gremlin: An Agent That Breaks Your Flutter App Before Your Users Do](https://medium.com/@ronelmathew/gremlin-an-agent-that-breaks-your-flutter-app-before-your-users-do-3d431dcf2d84)
+- [Zero-Touch OS Deployment: Migrating 90 Lab Systems with PXE](https://medium.com/@ronelmathew/zero-touch-os-deployment-migrating-90-lab-systems-with-pxe-15e25b62e979)
+
 ---
 
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,js,react,npm,opencv,nodejs,express,mongodb,docker,postgresql,mysql,redis,git,github" />
+    <img src="https://skillicons.dev/icons?i=go,py,dart,flutter,ts,js,react,fastapi,astro,sqlite,supabase,postgres,redis,docker,linux,git,githubactions" />
   </a>
 </p>
 
@@ -66,5 +73,3 @@ I’m a software engineer and product builder... a polymath who bridges code arc
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RM1338/RM1338/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RM1338/RM1338/output/github-snake-dark.svg">
 </picture>
-
-</div>
