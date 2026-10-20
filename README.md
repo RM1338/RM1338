@@ -5,7 +5,7 @@
 
 **AI Engineer · Founder of Crewbo**
 
-[Portfolio](https://rm1338.github.io) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Medium](https://medium.com/@ronelmathew) • [Email](mailto:rma80070@gmail.com) • [Get Scribe](https://getscribe.pages.dev/)
+[Portfolio](https://rm1338.github.io) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Medium](https://medium.com/@ronelmathew) • [Email](mailto:rma80070@gmail.com)
 
 </div>
 
@@ -48,7 +48,7 @@ I’m a software engineer and product builder working on agentic AI, and a polym
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,dart,flutter,ts,js,react,fastapi,astro,sqlite,supabase,postgres,redis,docker,linux,git,githubactions" />
+    <img src="https://skillicons.dev/icons?i=go,py,dart,flutter,ts,react,fastapi,astro,sqlite,supabase,postgres,docker,linux,git,githubactions" />
   </a>
 </p>
 
