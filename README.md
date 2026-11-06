@@ -3,7 +3,7 @@
 # Ronel Abraham Mathew
 */roʊˈnɛl/ (noun)*
 
-**AI Engineer · Founder of Crewbo**
+**AI Engineer · Founder of Fathomwise**
 
 [Portfolio](https://rm1338.github.io) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Medium](https://medium.com/@ronelmathew) • [Email](mailto:rma80070@gmail.com)
 
