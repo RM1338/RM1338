@@ -3,7 +3,7 @@
 # Ronel Abraham Mathew
 */roʊˈnɛl/ (noun)*
 
-**AI Engineer · Founder of Fathomwise**
+**AI Engineer · Product Builder at Fathomwise**
 
 [Portfolio](https://rm1338.github.io) • [LinkedIn](https://www.linkedin.com/in/ronelm/) • [Medium](https://medium.com/@ronelmathew) • [Email](mailto:rma80070@gmail.com)
 
@@ -12,7 +12,7 @@
 <br/>
 
 ### About Me
-I’m a software engineer and product builder working on agentic AI, and a polymath who bridges code architecture with real-world projects. I’ve been building products for a long time; every earlier one feels naive in hindsight, which is what keeps me learning. Right now that’s **Crewbo**, my startup, so a whole team can run their AI coding agents on one codebase without collisions.
+I’m a software engineer and product builder working on agentic AI, and a polymath who bridges code architecture with real-world projects. I’ve been building products for a long time; every earlier one feels naive in hindsight, which is what keeps me learning. Right now that’s **Crewbo**, a product by Fathomwise, so a whole team can run their AI coding agents on one codebase without collisions.
 
 ---
 
@@ -27,10 +27,10 @@ I’m a software engineer and product builder working on agentic AI, and a polym
 
 ### Selected Projects
 
-> **[Crewbo](https://rm1338.github.io/work/crewbo)** · my startup
+> **[Crewbo](https://rm1338.github.io/work/crewbo)** · product by Fathomwise
 > Run every teammate’s AI coding agent on the same repository, at the same time, without collisions. Claude Code, Codex and Antigravity, on Linux, macOS and Windows.
 
-> **[Gremlin](https://github.com/RM1338/Gremlin)** · [case study](https://rm1338.github.io/work/gremlin)
+> **[Gremlin](https://github.com/RM1338/Gremlin)** · product by Fathomwise · [case study](https://rm1338.github.io/work/gremlin)
 > An agent that explores a Flutter app like a confused user, files a bug report whenever the framework logs a failure, and can prove a fix by replaying the exact taps.
 
 > **[Scribe](https://github.com/RM1338/Scribe)** · [case study](https://rm1338.github.io/work/scribe) · [Get Scribe](https://getscribe.pages.dev)
